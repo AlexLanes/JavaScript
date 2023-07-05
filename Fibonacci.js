@@ -24,8 +24,3 @@ function fibonacci( n ){
 const N_ÉSIMO = 45
 for( let n = 1; n <= N_ÉSIMO; n++ )
     console.log( `Resultado do fibonacci "${n}": ${fibonacci(n)}` )
-
-/**
- * Abra um terminal
- * Digite "npm start"
- */
