@@ -1,2 +1,0 @@
-# javascript
-Util JavaScript
